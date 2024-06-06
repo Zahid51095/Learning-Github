@@ -8,3 +8,5 @@ ls - to check list of all files
 ls -a - to check hidden files  
 
 git diff - to see what diiference is made
+
+git log - to see the details about commit
