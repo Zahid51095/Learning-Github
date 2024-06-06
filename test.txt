@@ -10,3 +10,5 @@ ls -a - to check hidden files
 git diff - to see what diiference is made
 
 git log - to see the details about commit
+
+git log --oneline - to see commit history in short
