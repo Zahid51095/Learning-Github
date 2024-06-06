@@ -1,0 +1,10 @@
+working directory - stagging area - local repo - remote repo
+
+learning git -      git add (for stagging) -       git commit -  git push
+                    git restore (for unstagging)
+
+ls - to check list of all files
+
+ls -a - to check hidden files  
+
+git diff - to see what diiference is made
