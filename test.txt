@@ -16,3 +16,9 @@ git log --oneline - to see commit history in short
 git checkout versionID - to go a specific version
 
 git checkout master - to go to the last version which is the master version
+
+git reset -soft HEAD^ - to go stagging area from local repo
+
+git reset HEAD^ - to go to working directory from local repo directly
+
+git reset --hard HEAD^ - to delete everything
