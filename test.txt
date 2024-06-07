@@ -22,3 +22,5 @@ git reset -soft HEAD^ - to go stagging area from local repo
 git reset HEAD^ - to go to working directory from local repo directly
 
 git reset --hard HEAD^ - to delete everything
+
+git pull - to get changes from the github
