@@ -2,3 +2,4 @@ hey this is the second file
 hey this is the second line of the first file
 hey this is the third line of the second file
 hey this is the fourth line of the second file
+hey this is the fifth line of the second file
