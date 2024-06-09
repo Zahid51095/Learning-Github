@@ -32,3 +32,7 @@ git checkout feature1 - to work in the feature1 branch
 git merge feature1 - after completing work merge the new branch with master branch
 
 git checkout master - to enter the master branch
+
+git branch - to check all the branches
+
+git branch -r - to check how many remote branches are there
