@@ -24,3 +24,11 @@ git reset HEAD^ - to go to working directory from local repo directly
 git reset --hard HEAD^ - to delete everything
 
 git pull - to get changes from the github
+
+git branch feature1 - to create new branch from master
+
+git checkout feature1 - to work in the feature1 branch
+
+git merge feature1 - after completing work merge the new branch with master branch
+
+git checkout master - to enter the master branch
