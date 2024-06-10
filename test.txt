@@ -36,3 +36,5 @@ git checkout master - to enter the master branch
 git branch - to check all the branches
 
 git branch -r - to check how many remote branches are there
+
+git checkout -b feature - created and checkout to a branch
